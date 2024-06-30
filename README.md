@@ -3,15 +3,14 @@ Food Ordering System is a web application that manages the restaurant menu order
 
 ## Login Details
 For admin:
-"admin"
+"Khyati"
 "password"
 
 For staff:
-check database
+password:abc123
 
 
 
 
 ### Notes
-1. This is not ready for production.
-2. All staff created have same default password : abc123
+1. All staff created have same default password : abc123
